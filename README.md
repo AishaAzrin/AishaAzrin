@@ -11,7 +11,7 @@ Skills:  /JS / HTML / CSS
 - 🤔 I’m looking for help with Java Script 
 - 📫 How to reach me: aisha.azrin2012@gmail.com 
 - 😄 Pronouns: She/Her 
-- ⚡ Fun fact: There are over 700 coding languages!
+- ⚡ Fun fact: There are over 700+ coding languages!
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AishaAzrin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Aisha Azrin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.com/channels/1160742050782781500/1160742050782781503)  
